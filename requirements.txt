@@ -6,7 +6,7 @@ pytz==2020.1
 setuptools==41.2.0
 sqlparse==0.3.1
 
-﻿certifi==2019.11.28
+certifi==2019.11.28
 chardet==3.0.4
 defusedxml==0.6.0
 
